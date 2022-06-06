@@ -23,7 +23,7 @@ body{
     background-size: cover;
 }
 .container2{
-    background-image: url(../image/container3.jpg);
+    background-image: url(/Images/container3.jpg);
     width: 80%;
     margin: auto;
     background-position: center;
@@ -45,7 +45,7 @@ body{
     margin: auto;
 }
 .container3{
-    background-image: url(../image/container2.jpg);
+    background-image: url(/Images/container2.jpg);
     width: 80%;
     margin: auto;
     background-position: center;
